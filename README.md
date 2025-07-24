@@ -72,6 +72,8 @@ ag signup
 
 This will walk you through the signup process for agentcore.
 
+[Refer AgentCORE user manual for more details.](./User_Manual.pdf)
+
 ### Help
 
 ```bash
