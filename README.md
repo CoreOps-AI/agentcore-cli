@@ -1,7 +1,6 @@
 # agentcore
 
 [![License: BSL 1.1](https://img.shields.io/badge/License-BSL%201.1-blue.svg)](https://mariadb.com/bsl11)
-[![PyPI](https://img.shields.io/pypi/v/agentcore.svg)](https://pypi.org/project/agentcore/)
 [![Python](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/)
 
 **agentcore** is a powerful Artificial Intelligence Platform CLI developed by [CoreOps.AI](https://coreops.ai).  
