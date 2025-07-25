@@ -5,7 +5,7 @@
 [![Python](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/)
 
 **agentcore** is a powerful Artificial Intelligence Platform CLI developed by [CoreOps.AI](https://coreops.ai).  
-This tool provides an easy-to-use interface to interact with the agentcore platform directly from your terminal.
+This tool provides an easy-to-use interface to interact with the agentcore platform (https://agentcore.coreops.ai/) directly from your terminal.
 
 ---
 ## Legal
